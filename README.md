@@ -7,3 +7,7 @@ postcode2adres.php<br>
 Dit bestand bevat een simpel formulier, waar je een postcode en huisnummer moet invoeren.<br>
 En d.m.v. een functie haalt hij het adres op. <br>
 Bron van de adressen: https://geodata.nationaalgeoregister.nl
+
+# Live voorbeeld
+[Hier kun je live de pagina's in actie zien](https://www.trebnie.nl/test)
+
