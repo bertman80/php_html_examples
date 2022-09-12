@@ -15,5 +15,13 @@ Bron van de adressen: https://geodata.nationaalgeoregister.nl
 # google_recaptcha.php
 A simple form that use Google reCAPTCHA
 
+Google reCAPTCHA on a form.
+Go to: https://www.google.com/recaptcha/admin
+Make a new by clicking on +
+Choose: reCAPTCHA v2
+And then select an option like 'i'm nog a robot'
+Add the domain name.
+
+
 # Live example
 [Hier kun je live de pagina's in actie zien](https://www.trebnie.nl/test/google_recaptcha.php)
